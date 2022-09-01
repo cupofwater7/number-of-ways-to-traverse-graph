@@ -1,5 +1,7 @@
-# number-of-ways-to-traverse-graph
+                                                Coding Interview Questions    
+# number-of-ways-to-traverse-graph 
 
+Difficulty: medium
 
   You're given two positive integers representing the width and height of a
   grid-shaped, rectangular graph. Write a function that returns the number of
